@@ -1,2 +1,2 @@
 # Portfolio_App
-It is my portfolio page.
+It is a simple portfolio sample page.
